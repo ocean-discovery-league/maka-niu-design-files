@@ -1,0 +1,20 @@
+To build a Maka Niu Camera system, you will need to acquire a Pi Sero W or a Pi Zero 2W
+Additionally, you will need to acquire or fabricate the following custom PCBs
+
+-Endcap PCB
+-Battery Management PCB
+-Pi Shield
+-Hall Sensor Board
+
+
+To build a Maka Niu LED module, you will need to acquire a Pi Sero W or a Pi Zero 2W
+Additionally, you will need to acquire or fabricate the following custom PCBs
+
+-Endcap PCB
+-Battery Management PCB
+-Pi Shield
+-Hall Sensor Board
+-LED PCB
+
+These can all be viewed and downloaded at 
+https://drive.google.com/drive/folders/1OF107Nm6zLvXIB6sVqNFO2J9FXqdCbW7?usp=share_link

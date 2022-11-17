@@ -1,0 +1,18 @@
+To build the dry chassis of a Maka Niu Camera system, you will need to 3D print the following components
+
+-Chassis_Battery_Cartridge
+-Chassis_Compute_Stack_Adapter
+-Chassis_PiCam_Adapter
+-Chassis_PiCam_Black_Shield (We suggest print in black)
+-Battery_contact_adapter
+-Endcap_spacer
+
+To build the dry chassis of a Maka Niu LED module, you will need to 3D print the following components
+-Chassis_Battery_Cartridge
+-Chassis_Compute_Stack_Adapter
+-Chassis_LED_Adapter
+-Battery_contact_adapter
+-Endcap_spacer
+
+All STL files can be viewed and downloaded at 
+https://drive.google.com/drive/folders/1nLOXgDBbGBHkGrNHWlzP19P_V9sPvfNX?usp=share_link

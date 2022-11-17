@@ -1,0 +1,24 @@
+The housing requires machined components, and several additional 3D printed components.
+For the machining files, see Housing_Machining_Drawings.txt.
+The 3D printed components below provide the control interface and rigging hardware
+
+
+To build a Maka Niu Camera system, you will need to 3D print the following components:
+-Fixed_Dial
+-Rotating_Dial
+-Spring_Button
+-Lens_Cap
+-Faceplate_CoilPuck
+-Rear_Lock
+
+
+To build a Maka Niu LED module, you will need to 3D print the following components
+-Fixed_Dial
+-Rotating_Dial_LED_version
+-Spring_Button
+-Lens_Cap
+-Faceplate_CoilPuck
+-Rear_Lock
+
+All STL files can be viewed and downloaded at 
+https://drive.google.com/drive/folders/1u39a1h19gjNEHflURePqkqqbymbViMll?usp=share_link
