@@ -16,5 +16,5 @@ Additionally, you will need to acquire or fabricate the following custom PCBs
 -Hall Sensor Board
 -LED PCB
 
-The BOM+Gerber files for the Endcap PCP, and tke KiCad 6.0 deisgn files for all otehr boards, can be 
+The BOM+Gerber files for the Endcap PCP, and tke KiCad 6.0 design files for all other boards, can be 
 found in the same github folder as this readme under Circuit_Boards 

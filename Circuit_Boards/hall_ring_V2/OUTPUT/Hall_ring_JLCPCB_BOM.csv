@@ -1,7 +1,0 @@
-Comment,Designator,Footprint,LCSC
-"0.1uF","C1,C2,C3,C4,C5,C6,C7","Capacitor_SMD:C_0402_1005Metric","C307331"
-"LED_RG","D1","Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Vertical",""
-"T1M-06-X-DV","J1","Custom:SAMTEC_T1M-06-X-DV",""
-"2K","R1","Resistor_SMD:R_0402_1005Metric","C4109"
-"1K","R2","Resistor_SMD:R_0402_1005Metric","C11702"
-"DRV5053_LPG","U1,U2,U3,U4,U5,U6,U7","Package_TO_SOT_THT:TO-92Flat",""
