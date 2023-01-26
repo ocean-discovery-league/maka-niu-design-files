@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"Buzzer","BZ1","custom:Buzzer_12x9.5RM7.6","C968749"
+"1.0uF","C1,C2","Capacitor_SMD:C_0603_1608Metric","C90540"
+"T1M-10-F-SV-L","J1","SAMTEC_T1M-10-F-SV-L",""
+"Conn_02x20_Odd_Even","J2","custom:Pi_PinSocket_2x20",""
+"T1M-06-X-DV","J3","SAMTEC_T1M-06-X-DV",""
+"Screw_Terminal_01x10","J4","Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical",""
+"Conn_01x02","J5","Connector_Molex:Molex_Micro-Fit_3.0_43650-0210_1x02-1MP_P3.00mm_Horizontal",""
+"Conn_01x03","J6","Connector_Molex:Molex_Micro-Fit_3.0_43650-0310_1x03-1MP_P3.00mm_Horizontal",""
+"10K","R1,R2","Resistor_SMD:R_0603_1608Metric","C25804"
+"DRV2605LDGS","U1","Package_SO:VSSOP-10_3x3mm_P0.5mm","C527464"
