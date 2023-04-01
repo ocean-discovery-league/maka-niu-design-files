@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Luffy\git\maka-niu\PCBs\LED_board_B\LED_board.kicad_sch</source>
+    <date>7/18/2022 6:38:19 PM</date>
+    <tool>Eeschema (6.0.6)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LED_board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Digikey">13-CC1210KFX7R8BB106CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Digikey" value="13-CC1210KFX7R8BB106CT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a47d2550-b3dd-4990-ae94-1961a96f07e2</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Digikey">1276-1292-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Digikey" value="1276-1292-1-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71560fe5-ad56-4778-8371-6c5696c78459</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Digikey">1276-1935-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-1935-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ec991f1-85d3-47ff-8f0e-29312fde5c3d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="Digikey">SK54A-LTPMSCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="SK54A-LTPMSCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d32dee4-278b-4dfa-b5d7-44c72dadf0fe</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0324_1x03-1MP_P3.00mm_Vertical</footprint>
+      <fields>
+        <field name="Digikey">WM3887CT-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="WM3887CT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec6175a4-882f-43e7-85fe-f2d9ddbccdf9</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10uH</value>
+      <footprint>CustomLibrary:PA5175_Inductor</footprint>
+      <fields>
+        <field name="Digikey">553-PA5175.103NLTCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value=""/>
+      <property name="Digikey" value="553-PA5175.103NLTCT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18687285-5b67-47ba-b612-ee2deaf78353</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>LED_Pad</value>
+      <footprint>CustomLibrary:LED_Cree-XHP50_3V_hand_solder</footprint>
+      <fields>
+        <field name="Digikey">XMLBWT-00-0000-0000U2050CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Pad" description="Light emitting diode with pad"/>
+      <property name="Digikey" value="XMLBWT-00-0000-0000U2050CT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f523d528-1804-4aaf-82ad-195480f4af46</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>LED_Pad</value>
+      <footprint>CustomLibrary:LED_Cree-XHP50_3V_hand_solder</footprint>
+      <fields>
+        <field name="Digikey">XMLBWT-00-0000-0000U2050CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Pad" description="Light emitting diode with pad"/>
+      <property name="Digikey" value="XMLBWT-00-0000-0000U2050CT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e29e48c-3c9c-43ca-8e7b-88f20bf241df</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>LED_Pad</value>
+      <footprint>CustomLibrary:LED_Cree-XHP50_3V_hand_solder</footprint>
+      <fields>
+        <field name="Digikey">XMLBWT-00-0000-0000U2050CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Pad" description="Light emitting diode with pad"/>
+      <property name="Digikey" value="XMLBWT-00-0000-0000U2050CT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c7a3177-70b9-4d3b-95cc-0c1b19874a14</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0.068</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="Digikey">311-0.068TCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Digikey" value="311-0.068TCT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8c2de57-ae46-4455-bc40-7adfe126a793</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0603FG1K00CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Digikey" value="RMCF0603FG1K00CT-ND"/>
+      <property name="LCSC stocked" value=""/>
+      <property name="Buy Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b318d00-ea7d-4b5e-a9ed-fb70aff8f9de</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IS32LT3954</value>
+      <footprint>Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias</footprint>
+      <fields>
+        <field name="Digikey">2521-IS32LT3954-GRLA3-TRCT-ND</field>
+      </fields>
+      <libsource lib="Custom" part="IS32LT3954" description=""/>
+      <property name="Digikey" value="2521-IS32LT3954-GRLA3-TRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LED_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25693225-8c07-4496-961c-e416b62f4458</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom" part="IS32LT3954">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IS32LT3954</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="TON" type="input"/>
+        <pin num="3" name="EN/PWM" type="input"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="FAULTB" type="input"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="BOOT" type="output"/>
+        <pin num="8" name="LX" type="output"/>
+        <pin num="9" name="THERMAL" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Pad">
+      <description>Light emitting diode with pad</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="PAD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Custom">
+      <uri>C:\Users\Luffy\git\maka-niu\PCBs\LED_board_B/Custom.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+BATT">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="/cathode">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="LED3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="4" name="/heatsink">
+      <node ref="LED1" pin="3" pinfunction="PAD" pintype="passive"/>
+      <node ref="LED2" pin="3" pinfunction="PAD" pintype="passive"/>
+      <node ref="LED3" pin="3" pinfunction="PAD" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="THERMAL" pintype="power_in"/>
+    </net>
+    <net code="6" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="LX" pintype="output"/>
+    </net>
+    <net code="8" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="BOOT" pintype="output"/>
+    </net>
+    <net code="9" name="Net-(LED1-Pad1)">
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(LED2-Pad1)">
+      <node ref="LED2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED3" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="TON" pintype="input"/>
+    </net>
+    <net code="12" name="PWM">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EN/PWM" pintype="input"/>
+    </net>
+    <net code="13" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="FAULTB" pintype="input"/>
+    </net>
+  </nets>
+</export>

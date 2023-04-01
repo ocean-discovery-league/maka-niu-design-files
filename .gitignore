@@ -1,0 +1,5 @@
+*.pyc
+OUTPUT/
+*.PNG
+*.pdf
+*.zip

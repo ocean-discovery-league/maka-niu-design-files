@@ -1,0 +1,11 @@
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Digikey
+1,1,C1,10uF,Device:C,Capacitor_SMD:C_1210_3225Metric,~,13-CC1210KFX7R8BB106CT-ND
+2,1,C2,4.7uF,Device:C,Capacitor_SMD:C_1210_3225Metric,~,1276-1292-1-ND
+3,1,C3,0.1uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,~,1276-1935-1-ND
+4,1,D1,D_Schottky,Device:D_Schottky,Diode_SMD:D_SMA,~,SK54A-LTPMSCT-ND
+5,1,J1,Conn_01x03,Connector_Generic:Conn_01x03,Connector_Molex:Molex_Micro-Fit_3.0_43650-0324_1x03-1MP_P3.00mm_Vertical,~,WM3887CT-ND
+6,1,L1,10uH,Device:L,CustomLibrary:PA5175_Inductor,~,553-PA5175.103NLTCT-ND
+7,3,"LED1, LED2, LED3",LED_Pad,Device:LED_Pad,CustomLibrary:LED_Cree-XHP50_3V_hand_solder,~,XMLBWT-00-0000-0000U2050CT-ND
+8,1,R1,0.068,Device:R,Resistor_SMD:R_2512_6332Metric,~,311-0.068TCT-ND
+9,1,R2,1K,Device:R,Resistor_SMD:R_0603_1608Metric,~,RMCF0603FG1K00CT-ND
+10,1,U1,IS32LT3954,Custom:IS32LT3954,Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias,,2521-IS32LT3954-GRLA3-TRCT-ND
