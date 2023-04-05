@@ -1,4 +1,4 @@
-20343854486398445
+20345535046248930
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50252,6 +50252,13 @@ LED Cree XHP50
 0
 19
 3
+CustomLibrary
+LEDiL_Clip
+
+
+0
+0
+0
 CustomLibrary
 PA5175_Inductor
 Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf
